@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 ,Jamuna TV
+http://stvlive.net:8080/jamuna/index.m3u8
+#EXTINF:-1 ,Me TV
+http://stvlive.net:8080/metv/index.m3u8
+#EXTINF:-1 ,Movie Bangla
+http://stvlive.net:8080/moviebangla/index.m3u8
+#EXTINF:-1 ,Star Select1
+http://stvlive.net:8080/starselect1/index.m3u8
+#EXTINF:-1 ,Star Sports 1
+http://stvlive.net:8080/starsports1/index.m3u8
+#EXTINF:-1 ,Jamuna TV
+http://103.175.242.10:8080/jamuna/index.m3u8
+#EXTINF:-1 ,Me TV
+http://103.175.242.10:8080/metv/index.m3u8
+#EXTINF:-1 ,Movie Bangla
+http://103.175.242.10:8080/moviebangla/index.m3u8
+#EXTINF:-1 ,Star Select1
+http://103.175.242.10:8080/starselect1/index.m3u8
+#EXTINF:-1 ,Star Sports 1
+http://103.175.242.10:8080/starsports1/index.m3u8
