@@ -17,7 +17,7 @@ We deliver high-quality, regularly updated IPTV playlists with easy download lin
 
 ## 📌 Quick Links:
 - Blog: [streamecho.top](https://streamecho.top)  
-- Latest Playlists: [streamecho.top/latest](https://streamecho.top/latest)  
+- Latest Playlists: [streamecho.top/latest](https://www.streamecho.top/p/latest-iptv-m3u-playlists-2025.html)
 
 ---
 
